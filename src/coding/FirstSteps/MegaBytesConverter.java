@@ -1,3 +1,5 @@
+package coding.FirstSteps;
+
 public class MegaBytesConverter {
 
     public static void printMegaBytesAndKiloBytes(int kiloBytes){

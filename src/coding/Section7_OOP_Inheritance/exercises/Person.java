@@ -1,4 +1,4 @@
-package coding.exercises.oop;
+package coding.Section7_OOP_Inheritance.exercises;
 
 public class Person {
 

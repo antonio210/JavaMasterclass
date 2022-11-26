@@ -1,4 +1,4 @@
-package coding.exercises.controlFlowStatements;
+package coding.Section6_ControlFlow.exercises;
 
 import java.util.Scanner;
 

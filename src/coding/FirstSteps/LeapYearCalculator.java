@@ -1,4 +1,4 @@
-package coding.exercises.firstSteps;
+package coding.FirstSteps;
 
 public class LeapYearCalculator {
     public static boolean isLeapYear(int year){

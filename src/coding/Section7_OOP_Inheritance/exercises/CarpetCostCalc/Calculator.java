@@ -1,4 +1,4 @@
-package coding.exercises.oop.CarpetCostCalc;
+package coding.Section7_OOP_Inheritance.exercises.CarpetCostCalc;
 
 public class Calculator{
     private Floor floor;
