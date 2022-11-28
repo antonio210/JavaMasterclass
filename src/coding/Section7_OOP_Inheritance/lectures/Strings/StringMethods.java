@@ -1,4 +1,4 @@
-package coding.Section7_OOP_Inheritance.exercises;
+package coding.Section7_OOP_Inheritance.lectures.Strings;
 
 public class StringMethods {
 
