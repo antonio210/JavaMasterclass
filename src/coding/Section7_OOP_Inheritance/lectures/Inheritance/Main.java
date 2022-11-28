@@ -1,4 +1,4 @@
-package com.company.Inheritance;
+package coding.Section7_OOP_Inheritance.lectures.Inheritance;
 
 public class Main {
 
