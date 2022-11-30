@@ -1,3 +1,5 @@
+package coding.Section8_Polymorphism.lectures.Composition;
+
 public class Product {
 
     private String model;
